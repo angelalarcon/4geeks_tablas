@@ -1,0 +1,13 @@
+.field {
+	margin: -9px;
+}
+.field select,
+.field input {
+	width: 100%;
+	height: 38px;
+	background: #fff;
+	border: 1px solid #ddd;
+}
+.field select:focus {
+	outline: 0;
+}
